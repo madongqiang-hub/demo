@@ -1,4 +1,4 @@
-hello git;   jack come here!
+hello gita;   jack come here!
 
 hello git;
 
@@ -17,4 +17,5 @@ hello git;
 hello git;
 hello git;
 hello git; naster test
+hello git; hot-fix test
 madongqiang
